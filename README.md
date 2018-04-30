@@ -1,1 +1,1 @@
-In this version we modified our 'displayTodos' function
+In this version we added 'toggleCompeleted' and 'toggleAll' functions
