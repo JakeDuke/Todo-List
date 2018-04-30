@@ -1,1 +1,1 @@
-In this version we create object for our project
+We added new functions in our object
