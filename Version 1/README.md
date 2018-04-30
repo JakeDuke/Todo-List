@@ -1,1 +1,0 @@
-In this version Gordon explains us how to store data in arrays and how to works with them.

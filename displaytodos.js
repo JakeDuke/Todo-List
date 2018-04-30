@@ -1,1 +1,3 @@
-console.log(todos);
+function displayTodos() {
+    console.log(todos);
+}

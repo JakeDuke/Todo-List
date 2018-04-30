@@ -1,1 +1,0 @@
-todos.splice(0,1);

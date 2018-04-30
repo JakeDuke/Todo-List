@@ -1,1 +1,0 @@
-todos[0] = 'updated item 1';
