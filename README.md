@@ -1,1 +1,1 @@
-In this version we created HTML for our project and added event listeners to buttons.
+Our first refactoring! We deleted buttons' ids and added 'onclick' attribute. We get access to the functions by creating handlers.
