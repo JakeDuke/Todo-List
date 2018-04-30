@@ -1,1 +1,1 @@
-In this version we added 'toggleCompeleted' and 'toggleAll' functions
+In this version we created HTML for our project and added event listeners to buttons.
