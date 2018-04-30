@@ -1,1 +1,1 @@
-In this version we create functions with Gordon.
+In this version we create object for our project
