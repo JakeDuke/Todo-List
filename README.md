@@ -1,1 +1,1 @@
-We added new functions in our object
+In this version we modified our 'displayTodos' function
