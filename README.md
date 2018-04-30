@@ -1,1 +1,1 @@
-Our first refactoring! We deleted buttons' ids and added 'onclick' attribute. We get access to the functions by creating handlers.
+In this version we create new object 'view' for displaying our todos in DOM. We're escaping console!
